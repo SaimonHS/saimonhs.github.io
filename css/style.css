@@ -106,6 +106,10 @@ ol {
 /*---------------------
   Helper CSS
 -----------------------*/
+.divorce {
+  width: 50%;
+}
+
 .section-title {
   margin-bottom: 50px;
 }
